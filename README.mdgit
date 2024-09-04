@@ -1,0 +1,1 @@
+"# nic_to_dob-convertor-android-app-project"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/sithumpabodha/nic_to_dob-convertor-android-app-project.gitgit push -u origin main
