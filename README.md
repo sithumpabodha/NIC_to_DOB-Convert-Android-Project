@@ -1,7 +1,8 @@
-"# nic_to_dob-convertor-android-app-project" 
+NIC to Date Of Birth and Gender ( Sri Lankan NIC only)
 
-add to Android Studio to view and modify the project.
+To Modify,
+Add to Android Studio
 
-to install the Android app
+To install the Android app
 NIC_to_DOB\app\release\app-release.apk
 
